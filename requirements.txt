@@ -1,0 +1,8 @@
+transformers
+torch
+whisper
+nltk
+sounddevice
+rich
+langchain
+langchain-community
