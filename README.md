@@ -1,5 +1,4 @@
-# RAIVA
-## RAIVA (Retrieval-Augmented Intelligent Voice Assistant)
+## CoreVoice RAG
 ### MODULE 1: Streamlit Integration
 Objective: Deploy the entire system locally using a responsive, intuitive interface.
 
