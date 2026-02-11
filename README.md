@@ -4,17 +4,14 @@ Objective: Deploy the entire system locally using a responsive, intuitive interf
 
 Components:
 
-Voice recording button.
-
-Real-time STT and response rendering.
-
-TTS playback in browser.
+- Voice recording button.
+- Real-time STT and response rendering.
+- TTS playback in browser.
 
 Implementation:
 
-Frontend built using Streamlit widgets (st.button, st.audio, st.text_area).
-
-Backend integrations for microphone input, Whisper decoding, and Bark TTS.
+- Frontend built using Streamlit widgets (st.button, st.audio, st.text_area).
+- Backend integrations for microphone input, Whisper decoding, and Bark TTS.
 
 Contribution:
 
